@@ -1,0 +1,32 @@
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      .col-4-logo{
+        padding-top: 80px;
+        padding-left: 15px;
+      }
+
+      .col-4-boletim{
+        padding-right: 30px;
+      }
+
+      .blog-footer{
+        text-align: center;
+        color: #ffffff;
+        background-color: #071d41;
+        height: 80px;
+        margin-bottom: 100px;
+        
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
